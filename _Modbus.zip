@@ -1,5 +1,0 @@
-Bu proje de stm32f407 üzerinde MODBUS RTU hberleşme protokolü kullanılarak ENTES MPR-45S serisi enerji analizörü ile haberleşme sağlamak için oluşturulmuştur.
-MODBUS RTU yu destekleyen herhangi bir endüstriyel cihaz ile de haberleşme sağlana bilmektedir. 
-Projede kullanılan çevresel brim (UART4,TIM6,GPIO,vs.) projenize göre değişiklik gösterebilir.
-State machine kurgusu ile kurgulanan modbus_task() buton a entegre edilmiştir. butona basıldığında Modbus request gönderilir ve response ile de cevap alınır.
-Çeşitli modbus simulator programları ile yapılan denemelerin ekran görüntüleri proje dosyası içerisinde bulunmaktadır. 
