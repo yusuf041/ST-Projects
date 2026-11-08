@@ -1,0 +1,11 @@
+../Core/Src/timer.c:38:6:Timer_Reset	1
+../Core/Src/timer.c:43:10:Timer_GetCount	1
+../Core/Src/timer.c:48:6:Timer_Start	1
+../Core/Src/timer.c:53:6:Timer_Stop	1
+../Core/Src/timer.c:58:6:Timer_IC_Start	1
+../Core/Src/timer.c:63:6:Timer_Pwm_Start	1
+../Core/Src/timer.c:68:6:Timer_Init	14
+../Core/Src/timer.c:133:6:TIM_PWM_INIT	1
+../Core/Src/timer.c:155:6:TIM_IC_INIT	1
+../Core/Src/timer.c:174:6:Timer_IntConfig	1
+../Core/Src/timer.c:196:6:TIM1_CC_IRQHandler	2

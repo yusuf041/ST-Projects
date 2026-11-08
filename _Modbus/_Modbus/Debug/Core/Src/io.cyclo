@@ -1,0 +1,4 @@
+../Core/Src/io.c:12:6:IO_Set_AlternateFunc	1
+../Core/Src/io.c:18:6:IO_Init	11
+../Core/Src/io.c:85:5:IO_Read	1
+../Core/Src/io.c:96:6:IO_Write	2

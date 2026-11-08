@@ -1,0 +1,8 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Core/Src/modbus_serial.c:33:6:MB_init	1
+../Core/Src/modbus_serial.c:80:15:UART_get_data	1
+../Core/Src/modbus_serial.c:90:6:UART_send_data	1
+../Core/Src/modbus_serial.c:98:5:UART_get_line	1
+../Core/Src/modbus_serial.c:102:6:IUART_Send_data	3
+../Core/Src/modbus_serial.c:117:6:IUART_get_data	3

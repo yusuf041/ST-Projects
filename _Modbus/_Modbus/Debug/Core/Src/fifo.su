@@ -1,0 +1,9 @@
+../Core/Src/fifo.c:8:6:FIFO_Clear	16	static
+../Core/Src/fifo.c:16:6:FIFO_Init	24	static
+../Core/Src/fifo.c:24:5:FIFO_IsEmpty	16	static
+../Core/Src/fifo.c:29:5:FIFO_IsFull	24	static
+../Core/Src/fifo.c:40:5:FIFO_SetData	24	static
+../Core/Src/fifo.c:64:15:FIFO_GetData	24	static
+../Core/Src/fifo.c:86:5:FIFO_GetLine	24	static
+../Core/Src/fifo.c:109:5:FIFO_GetCount	24	static
+../Core/Src/fifo.c:125:5:FIFO_GetAvail	24	static

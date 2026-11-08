@@ -1,0 +1,9 @@
+../Core/Src/own_modbus.c:108:10:CRC16	2
+../Core/Src/own_modbus.c:130:6:mb_timer_init	1
+../Core/Src/own_modbus.c:138:6:Modbus_init	1
+../Core/Src/own_modbus.c:145:5:Own_Modbus_Req	2
+../Core/Src/own_modbus.c:181:13:mb_timer_stop	1
+../Core/Src/own_modbus.c:186:13:mb_timer_start	1
+../Core/Src/own_modbus.c:194:6:UART4_IRQHandler	7
+../Core/Src/own_modbus.c:244:6:TIM6_DAC_IRQHandler	2
+../Core/Src/own_modbus.c:263:6:mb_task	11

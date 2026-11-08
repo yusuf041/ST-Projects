@@ -1,0 +1,9 @@
+../Core/Src/fifo.c:8:6:FIFO_Clear	1
+../Core/Src/fifo.c:16:6:FIFO_Init	1
+../Core/Src/fifo.c:24:5:FIFO_IsEmpty	1
+../Core/Src/fifo.c:29:5:FIFO_IsFull	2
+../Core/Src/fifo.c:40:5:FIFO_SetData	4
+../Core/Src/fifo.c:64:15:FIFO_GetData	4
+../Core/Src/fifo.c:86:5:FIFO_GetLine	4
+../Core/Src/fifo.c:109:5:FIFO_GetCount	2
+../Core/Src/fifo.c:125:5:FIFO_GetAvail	1

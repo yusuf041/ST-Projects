@@ -1,0 +1,8 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	16	static
+../Core/Src/modbus_serial.c:33:6:MB_init	24	static
+../Core/Src/modbus_serial.c:80:15:UART_get_data	16	static
+../Core/Src/modbus_serial.c:90:6:UART_send_data	24	static
+../Core/Src/modbus_serial.c:98:5:UART_get_line	16	static
+../Core/Src/modbus_serial.c:102:6:IUART_Send_data	24	static
+../Core/Src/modbus_serial.c:117:6:IUART_get_data	32	static
