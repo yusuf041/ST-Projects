@@ -1,4 +1,0 @@
-This project has developed for USB 485 Transmitter. İf you have both usb ttl transmitter and ttl max 485 transmitter, You can arrange both of them as a usb 485 transmitter. 
-I have designed program on HAL layer in main page using interrupt handler which  Gpıo IRQHandler, UART IRQHandler, Tımer IRQ Handler  and initialization section. 
-This project makes help you to usb 485 trasnmitter for Modbus rtu protocol. if you dont have usb 485 trasnmitter, dont wory you can set both as a USB / 485 transmitter.
-GPIO Interrupt is listening falling edge of Pc TX , UART ınterrupt is listening serial port RX, TIM Interrupt is switching max 485 trasnmitter and receiver timing looking total buffer size and flag.
